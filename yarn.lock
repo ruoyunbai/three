@@ -7890,6 +7890,11 @@ thread-loader@^2.1.3:
     loader-utils "^1.1.0"
     neo-async "^2.6.0"
 
+three@^0.131.3:
+  version "0.131.3"
+  resolved "https://registry.nlark.com/three/download/three-0.131.3.tgz#406fd210c603ca9154937ae3582996fbfd3cb716"
+  integrity sha1-QG/SEMYDypFUk3rjWCmW+/08txY=
+
 through2@^2.0.0:
   version "2.0.5"
   resolved "https://registry.npm.taobao.org/through2/download/through2-2.0.5.tgz#01c1e39eb31d07cb7d03a96a70823260b23132cd"
